@@ -34,17 +34,16 @@ Machine Learning • Deep Learning • NLP • LLMs • RAG • Deployment
 
 ## 🧠 About Me
 
-- Built **4+ deployed AI/ML systems** across agriculture, education, and recommendation domains  
-- Developed **end-to-end ML pipelines (data ingestion → training → deployment)**  
-- Achieved **~85–90% accuracy** using CatBoost with hyperparameter tuning  
-- Experienced in **deep learning (ANN) and recommendation systems using collaborative filtering**  
-- Focused on building **real-world AI products, not just models**
+I build and deploy **real-world AI systems** — from data pipelines to production-ready applications.
 
----
+- Built **4+ ML systems** across agriculture, education, and recommendation domains  
+- Developed **end-to-end pipelines** using CatBoost, ANN, and collaborative filtering  
+- Achieved **~85–90% accuracy** with optimized models (GridSearchCV)  
+- Presented AI solution at **NIT Hamirpur**  
+- Currently exploring **LLMs, RAG, and scalable AI systems**
 
 ## 🚀 Featured Projects
 
-<p align="center">
 
 <a href="https://github.com/vanshbhutani1405/FarmCulture">
   <img src="https://img.shields.io/badge/FarmCulture-AI%20Farmer%20Companion-1e3c72?style=for-the-badge&logo=leaflet&logoColor=white"/>
@@ -52,7 +51,7 @@ Machine Learning • Deep Learning • NLP • LLMs • RAG • Deployment
 
 <br/>
 
-<b>AI-powered crop recommendation system using ML + LLM</b>  
+<b>AI-powered crop recommendation system using ML </b>  
 <span style="color:#8b949e;">Real-world agricultural impact • Presented at NIT Hamirpur</span>
 
 <br/><br/>
