@@ -42,6 +42,8 @@ I build and deploy **real-world AI systems** — from data pipelines to producti
 - Presented AI solution at **NIT Hamirpur**  
 - Currently exploring **LLMs, RAG, and scalable AI systems**
 
+  ---
+
 ## 🚀 Featured Projects
 
 
