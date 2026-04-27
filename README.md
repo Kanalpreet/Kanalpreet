@@ -1,59 +1,54 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Kanalpreet Kaur</h1>
+<!-- HERO -->
+<h1 align="center">Kanalpreet Kaur</h1>
 
-<h3 align="center">
-AI/ML Engineer • Building real-world AI systems • LLMs • RAG • GenAI
-</h3>
-
-<!-- HERO ANIMATION -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Systems;LLMs+%7C+RAG+%7C+GenAI;Building+Real+World+Products" />
+<b>AI/ML Engineer • Building real-world AI systems • LLMs • RAG • GenAI</b>
 </p>
 
-<!-- PROFILE VISUAL -->
+<!-- UNIQUE VISUAL (SUBTLE + PREMIUM) -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
 </p>
+
+<p align="center">
+<b style="font-size:20px;">
+I build <span style="color:#58A6FF;">AI systems</span> that go from 
+<span style="color:#58A6FF;">data → models → real-world impact</span>
+</b>
+</p>
+
+<p align="center" style="color:#8b949e;">
+Machine Learning • Deep Learning • NLP • LLMs • RAG • Deployment
+</p>
+
+---
+
+## 📍 Quick Info
+
+- 📍 India  
+- 💼 Open to ML / Data Science Internships  
+- 📫 kanalpreetk@gmail.com  
+- 🌐 https://kanalpreet-ai-forge.lovable.app/  
 
 ---
 
 ## 🧠 About Me
 
-- Building **end-to-end AI systems (Data → Model → Deployment)**
-- Focused on **real-world AI products**
-- Exploring **LLMs, RAG pipelines & Generative AI**
-- Strong interest in **AI-driven startup solutions**
+- Built **4+ deployed AI/ML systems** including recommendation engine and churn predictor  
+- Developed **end-to-end ML pipelines (data ingestion → training → deployment)**  
+- Worked with **CatBoost, ANN, collaborative filtering, and NLP systems**  
+- Focused on **real-world AI products and scalable systems**
 
 ---
 
 ## 🚀 Featured Projects
 
-### FarmCulture – AI-Powered Farmer Companion  
-🔗 https://github.com/vanshbhutani1405/FarmCulture  
-→ ML + LLM-based crop recommendation system  
-→ Real-world agricultural impact  
-→ Presented at NIT Hamirpur  
-
----
-
-### Student Performance Prediction  
-🔗 https://github.com/Kanalpreet/mlproject  
-→ End-to-end ML pipeline with CatBoost  
-→ Flask deployment + real-time predictions  
-
----
-
-### ANN Customer Churn Predictor  
-🔗 https://github.com/Kanalpreet/ANN-Classification  
-→ Deep learning model (TensorFlow/Keras)  
-→ Deployed using Streamlit  
-
----
-
-### Book Recommendation Engine  
-🔗 https://github.com/Kanalpreet/recommendationSystem  
-→ Collaborative filtering + cosine similarity  
-→ Live deployed system  
+| Project | What it does | Tech | Links |
+|--------|-------------|------|------|
+| **FarmCulture** | AI-based crop recommendation using ML + LLM | Python, ML, LLM | [GitHub](https://github.com/vanshbhutani1405/FarmCulture) |
+| **Student Performance Predictor** | End-to-end ML pipeline with deployment | CatBoost, Flask | [GitHub](https://github.com/Kanalpreet/mlproject) |
+| **ANN Churn Predictor** | Deep learning model for churn prediction | TensorFlow, Keras | [GitHub](https://github.com/Kanalpreet/ANN-Classification) |
+| **Book Recommendation System** | Collaborative filtering engine | Python, Cosine Similarity | [GitHub](https://github.com/Kanalpreet/recommendationSystem) |
 
 ---
 
@@ -75,19 +70,12 @@ AI/ML Engineer • Building real-world AI systems • LLMs • RAG • GenAI
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanalpreet&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanalpreet&theme=react-dark" />
-</p>
-
 ---
 
 ## 🌐 Portfolio
 
-👉 Explore full portfolio: https://kanalpreet-ai-forge.lovable.app/  
-
-→ Interactive AI systems  
-→ Deployed ML pipelines  
-→ Real-world projects  
+👉 Explore full portfolio:  
+https://kanalpreet-ai-forge.lovable.app/
 
 ---
 
@@ -99,7 +87,7 @@ AI/ML Engineer • Building real-world AI systems • LLMs • RAG • GenAI
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kanalpreet-kaur-479079327">
@@ -113,13 +101,6 @@ AI/ML Engineer • Building real-world AI systems • LLMs • RAG • GenAI
 <a href="https://kanalpreet-ai-forge.lovable.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge">
 </a>
-</p>
-
----
-
-<!-- FOOTER ANIMATION -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
 
 ---
