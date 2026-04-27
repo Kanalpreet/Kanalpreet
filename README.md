@@ -5,9 +5,9 @@
 <b>AI/ML Engineer • Building real-world AI systems • LLMs • RAG • GenAI</b>
 </p>
 
-<!-- CLEAN DYNAMIC VISUAL (NOT TYPEWRITER) -->
+<!-- SUBTLE VISUAL LINE -->
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanalpreet&theme=github_dark" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2"/>
 </p>
 
 <p align="center">
@@ -44,12 +44,51 @@ Machine Learning • Deep Learning • NLP • LLMs • RAG • Deployment
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Tech | Links |
-|--------|-------------|------|------|
-| **FarmCulture** | AI-based crop recommendation system using ML + LLM with real-world agricultural impact (Presented at NIT Hamirpur) | Python, ML, LLM | [GitHub](https://github.com/vanshbhutani1405/FarmCulture) |
-| **Student Performance Predictor** | End-to-end ML pipeline with CatBoost, preprocessing, hyperparameter tuning, and Flask deployment (~85–90% accuracy) | CatBoost, Flask | [GitHub](https://github.com/Kanalpreet/mlproject) |
-| **ANN Churn Predictor** | Deep learning model for customer churn prediction with real-time Streamlit deployment | TensorFlow, Keras | [GitHub](https://github.com/Kanalpreet/ANN-Classification) |
-| **Book Recommendation System** | Collaborative filtering-based recommendation engine using cosine similarity with live deployment | Python, ML | [GitHub](https://github.com/Kanalpreet/recommendationSystem) |
+<p align="center">
+
+<a href="https://github.com/vanshbhutani1405/FarmCulture">
+  <img src="https://img.shields.io/badge/FarmCulture-AI%20Farmer%20Companion-1e3c72?style=for-the-badge&logo=leaflet&logoColor=white"/>
+</a>
+
+<br/>
+
+<b>AI-powered crop recommendation system using ML + LLM</b>  
+<span style="color:#8b949e;">Real-world agricultural impact • Presented at NIT Hamirpur</span>
+
+<br/><br/>
+
+<a href="https://github.com/Kanalpreet/mlproject">
+  <img src="https://img.shields.io/badge/Student%20ML%20Pipeline-End%20to%20End%20System-2a5298?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<br/>
+
+<b>End-to-end ML pipeline with CatBoost, preprocessing & deployment</b>  
+<span style="color:#8b949e;">~85–90% accuracy • Flask-based deployment</span>
+
+<br/><br/>
+
+<a href="https://github.com/Kanalpreet/ANN-Classification">
+  <img src="https://img.shields.io/badge/Churn%20Predictor-Deep%20Learning%20Model-1e3c72?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
+<br/>
+
+<b>ANN-based customer churn prediction system</b>  
+<span style="color:#8b949e;">TensorFlow/Keras • Real-time predictions</span>
+
+<br/><br/>
+
+<a href="https://github.com/Kanalpreet/recommendationSystem">
+  <img src="https://img.shields.io/badge/Book%20Recommendation-System-2a5298?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</a>
+
+<br/>
+
+<b>Collaborative filtering recommendation engine</b>  
+<span style="color:#8b949e;">Cosine similarity • Live deployed system</span>
+
+</p>
 
 ---
 
@@ -57,18 +96,6 @@ Machine Learning • Deep Learning • NLP • LLMs • RAG • Deployment
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,flask,docker,git,linux,vscode" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kanalpreet&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanalpreet&theme=tokyonight" />
 </p>
 
 ---
