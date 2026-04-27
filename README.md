@@ -1,13 +1,13 @@
 <!-- HERO -->
-<h1 align="center">Kanalpreet Kaur</h1>
+<h1 align="center">Hi there 👋, I'm Kanalpreet Kaur</h1>
 
 <p align="center">
 <b>AI/ML Engineer • Building real-world AI systems • LLMs • RAG • GenAI</b>
 </p>
 
-<!-- UNIQUE VISUAL (SUBTLE + PREMIUM) -->
+<!-- CLEAN DYNAMIC VISUAL (NOT TYPEWRITER) -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanalpreet&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -34,10 +34,11 @@ Machine Learning • Deep Learning • NLP • LLMs • RAG • Deployment
 
 ## 🧠 About Me
 
-- Built **4+ deployed AI/ML systems** including recommendation engine and churn predictor  
+- Built **4+ deployed AI/ML systems** across agriculture, education, and recommendation domains  
 - Developed **end-to-end ML pipelines (data ingestion → training → deployment)**  
-- Worked with **CatBoost, ANN, collaborative filtering, and NLP systems**  
-- Focused on **real-world AI products and scalable systems**
+- Achieved **~85–90% accuracy** using CatBoost with hyperparameter tuning  
+- Experienced in **deep learning (ANN) and recommendation systems using collaborative filtering**  
+- Focused on building **real-world AI products, not just models**
 
 ---
 
@@ -45,10 +46,10 @@ Machine Learning • Deep Learning • NLP • LLMs • RAG • Deployment
 
 | Project | What it does | Tech | Links |
 |--------|-------------|------|------|
-| **FarmCulture** | AI-based crop recommendation using ML + LLM | Python, ML, LLM | [GitHub](https://github.com/vanshbhutani1405/FarmCulture) |
-| **Student Performance Predictor** | End-to-end ML pipeline with deployment | CatBoost, Flask | [GitHub](https://github.com/Kanalpreet/mlproject) |
-| **ANN Churn Predictor** | Deep learning model for churn prediction | TensorFlow, Keras | [GitHub](https://github.com/Kanalpreet/ANN-Classification) |
-| **Book Recommendation System** | Collaborative filtering engine | Python, Cosine Similarity | [GitHub](https://github.com/Kanalpreet/recommendationSystem) |
+| **FarmCulture** | AI-based crop recommendation system using ML + LLM with real-world agricultural impact (Presented at NIT Hamirpur) | Python, ML, LLM | [GitHub](https://github.com/vanshbhutani1405/FarmCulture) |
+| **Student Performance Predictor** | End-to-end ML pipeline with CatBoost, preprocessing, hyperparameter tuning, and Flask deployment (~85–90% accuracy) | CatBoost, Flask | [GitHub](https://github.com/Kanalpreet/mlproject) |
+| **ANN Churn Predictor** | Deep learning model for customer churn prediction with real-time Streamlit deployment | TensorFlow, Keras | [GitHub](https://github.com/Kanalpreet/ANN-Classification) |
+| **Book Recommendation System** | Collaborative filtering-based recommendation engine using cosine similarity with live deployment | Python, ML | [GitHub](https://github.com/Kanalpreet/recommendationSystem) |
 
 ---
 
