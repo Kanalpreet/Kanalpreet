@@ -1,18 +1,17 @@
-
 <!-- =========================================================
      KANALPREET KAUR | GITHUB PROFILE README
      Repository: https://github.com/Kanalpreet/Kanalpreet
-     Requires the three SVG files in an /assets folder:
-       assets/header.svg · assets/terminal.svg · assets/footer.svg
+     Requires these three SVG files in the same folder as this README:
+       header.svg · terminal.svg · footer.svg
      ========================================================= -->
 
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Kanalpreet Kaur - AI Engineer focused on RAG and agentic systems"/>
+<img src="header.svg" width="100%" alt="Kanalpreet Kaur - AI Engineer focused on RAG and agentic systems"/>
 
 <br/><br/>
 
-<img src="assets/terminal.svg" width="720" alt="Terminal intro: whoami, focus, projects and engineering principle"/>
+<img src="terminal.svg" width="720" alt="Terminal intro: whoami, focus, projects and engineering principle"/>
 
 <br/><br/>
 
@@ -132,6 +131,22 @@ A crop recommendation project using machine learning and generative AI to suppor
 
 ---
 
+## 🧭 How I Approach AI Systems
+
+```mermaid
+flowchart TD
+    A[User Request] --> B[LangGraph Workflow]
+    B --> C{Tool or Retrieval Needed?}
+    C -->|Yes| D[Tools and RAG]
+    C -->|No| E[LLM Reasoning]
+    D --> F{Human Approval Required?}
+    E --> F
+    F -->|Yes| G[Human Review]
+    F -->|No| H[Return Result]
+    G --> H
+    H --> I[Evaluation and Logs]
+```
+
 **Engineering principles**
 
 1. **Ground outputs in data:** Flag missing information instead of inventing details.
@@ -207,6 +222,6 @@ A crop recommendation project using machine learning and generative AI to suppor
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Building intelligent systems that are evaluated, reliable, and useful."/>
+<img src="footer.svg" width="100%" alt="Building intelligent systems that are evaluated, reliable, and useful."/>
 
 </div>
