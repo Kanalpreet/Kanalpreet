@@ -1,137 +1,228 @@
-<!-- HERO -->
-<h1 align="center">Hi there 👋, I'm Kanalpreet Kaur</h1>
 
-<p align="center">
-<b>AI/ML Engineer • Building real-world AI systems • LLMs • RAG • GenAI</b>
-</p>
+<!-- =========================================================
+     KANALPREET KAUR | GITHUB PROFILE README
+     Repository: https://github.com/Kanalpreet/Kanalpreet
+     ========================================================= -->
 
-<!-- SUBTLE VISUAL LINE -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2"/>
-</p>
+<div align="center">
 
-<p align="center">
-<b style="font-size:20px;">
-I build <span style="color:#58A6FF;">AI systems</span> that go from 
-<span style="color:#58A6FF;">data → models → real-world impact</span>
-</b>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:7C3AED&height=220&section=header&text=Kanalpreet%20Kaur&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%7C%20RAG%20%26%20Agentic%20Systems%20%7C%20LangGraph&descSize=18&descAlignY=57&descColor=E2E8F0" alt="Kanalpreet Kaur - AI Engineer"/>
 
-<p align="center" style="color:#8b949e;">
-Machine Learning • Deep Learning • NLP • LLMs • RAG • Deployment
-</p>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Backend+AI+Engineering+Intern+%40+FlyRank+AI;RAG+%7C+LangGraph+%7C+Vector+Databases+%7C+Evals;Agents+with+guardrails%2C+evals+and+human+approval;Building+practical+AI+systems" alt="Animated introduction"/>
+</a>
 
----
+<br/>
 
-## 📍 Quick Info
+<a href="https://www.linkedin.com/in/kanalpreet-kaur-479079327">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://kanalpreet-ai-forge.lovable.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:kanalpreetk@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-- 📍 India  
-- 💼 Open to ML / Data Science Internships  
-- 📫 kanalpreetk@gmail.com  
-- 🌐 https://kanalpreet-ai-forge.lovable.app/  
+</div>
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-I build and deploy **real-world AI systems** — from data pipelines to production-ready applications.
+I'm a final-year **B.Tech CSE (AI & ML)** student and a **Backend AI Engineering Intern at FlyRank AI**. I'm interested in building practical AI systems that combine LLMs, agentic workflows, and backend engineering to solve real-world problems, with a focus on reliability, evaluation, and responsible automation.
 
-- Built **4+ ML systems** across agriculture, education, and recommendation domains  
-- Developed **end-to-end pipelines** using CatBoost, ANN, and collaborative filtering  
-- Achieved **~85–90% accuracy** with optimized models (GridSearchCV)  
-- Presented AI solution at **NIT Hamirpur**  
-- Currently exploring **LLMs, RAG, and scalable AI systems**
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech CSE (AI & ML), IK Gujral Punjab Technical University · **CGPA: 8.75/10** · Class of 2027 |
+| 💼 **Current Role** | Backend AI Engineering Intern @ FlyRank AI |
+| 🔬 **Previous Role** | Data Science Intern @ CBA Infotech |
+| 🎯 **Interests** | Applied AI, Agentic Systems, RAG, Generative AI, and Backend Engineering |
 
-  ---
+---
+
+## 🔭 Currently
+
+- 🧾 **Building:** An AI Procurement Agent using LangGraph, FastAPI, and PostgreSQL.
+- 🤖 **Exploring:** Agentic AI workflows, LLM-powered applications, and backend AI systems.
+- 📐 **Learning:** RAG evaluation, agent orchestration, and AI guardrails.
+
+---
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td width="30%" valign="top">
+      <strong>Backend AI Engineering Intern</strong><br/>
+      FlyRank AI<br/>
+      <sub>Jul 2026 – Present</sub>
+    </td>
+    <td valign="top">
+      Building FastAPI backend APIs and contributing to RAG pipelines for AI-powered document retrieval systems.
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <strong>Data Science Intern</strong><br/>
+      CBA Infotech<br/>
+      <sub>Add your internship dates</sub>
+    </td>
+    <td valign="top">
+      Worked on data preprocessing, machine learning model development, and data analysis to build predictive solutions.
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🚀 Featured Projects
 
+### 🏦 RegMind AI — Regulatory Compliance Intelligence
 
-<a href="https://github.com/vanshbhutani1405/FarmCulture">
-  <img src="https://img.shields.io/badge/FarmCulture-AI%20Farmer%20Companion-1e3c72?style=for-the-badge&logo=leaflet&logoColor=white"/>
-</a>
+> An AI-powered regulatory compliance system designed to identify potential conflicts between RBI regulations and internal organizational policies.
+
+- **Stack:** React · FastAPI · Qdrant · Hybrid RAG
+- **Retrieval:** BM25 and dense vector search combined using Reciprocal Rank Fusion (RRF).
+- **Risk Analysis:** XGBoost-based compliance-risk classification.
+- **Evaluation:** Testing retrieval and generation quality to identify fabricated clause references and improve retrieval reliability.
+- 🔗 **Repository / Demo:** Add your project links when available.
+
+### 📊 Student Performance Prediction System
+
+A machine learning project that predicts student performance using a structured data pipeline, model tuning, and a web-based prediction interface.
+
+- **Approach:** Data preprocessing, model training, and hyperparameter tuning using GridSearchCV and cross-validation.
+- **Model:** CatBoost.
+- **Deployment:** Flask REST API deployed on Render.
+- **Repository:** [View on GitHub](https://github.com/Kanalpreet/mlproject)
+
+### 🧾 AI Procurement Agent *(In Progress)*
+
+> An agentic procurement workflow that finds suppliers, requests quotations, compares offers, and seeks human approval before purchase commitments.
+
+- **Stack:** Python · FastAPI · LangGraph · PostgreSQL
+- Flags missing or conflicting supplier information instead of guessing.
+- Performs cost comparisons using deterministic code.
+- Supports persistent workflows and recovery after restarts.
+- Requires human approval before purchase commitments.
+- Includes repeatable evaluation scenarios for testing failure cases.
+- 🔗 **Repository:** Add the link when the project is public.
+
+### 🌾 FarmCulture — AI-Powered Crop Recommendation
+
+A crop recommendation project using machine learning and generative AI to support cultivation decisions based on information such as soil type, rainfall, temperature, and location.
+
+- **Stack:** Python · Random Forest · Gemini API · FastAPI · React · Bootstrap
+- **Recognition:** Presented at NIT Hamirpur.
+- **Repository:** [View FarmCulture](https://github.com/vanshbhutani1405/FarmCulture)
+
+<details>
+<summary><strong>📂 More Machine Learning Projects</strong></summary>
 
 <br/>
 
-<b>AI-powered crop recommendation system using ML </b>  
-<span style="color:#8b949e;">Real-world agricultural impact • Presented at NIT Hamirpur</span>
+| Project | Description | Technologies |
+|---|---|---|
+| [Book Recommendation System](https://github.com/Kanalpreet/recommendationSystem) | Recommends books using collaborative filtering and cosine similarity. | Python · scikit-learn |
 
-<br/><br/>
+</details>
 
-<a href="https://github.com/Kanalpreet/mlproject">
-  <img src="https://img.shields.io/badge/Student%20ML%20Pipeline-End%20to%20End%20System-2a5298?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
+---
 
-<br/>
+## 🧭 How I Approach AI Systems
 
-<b>End-to-end ML pipeline with CatBoost, preprocessing & deployment</b>  
-<span style="color:#8b949e;">~85–90% accuracy • Flask-based deployment</span>
+```mermaid
+flowchart TD
+    A[User Request] --> B[LangGraph Workflow]
+    B --> C{Tool or Retrieval Needed?}
+    C -->|Yes| D[Tools and RAG]
+    C -->|No| E[LLM Reasoning]
+    D --> F{Human Approval Required?}
+    E --> F
+    F -->|Yes| G[Human Review]
+    F -->|No| H[Return Result]
+    G --> H
+    H --> I[Evaluation and Logs]
+```
 
-<br/><br/>
+**Engineering principles**
 
-<a href="https://github.com/Kanalpreet/ANN-Classification">
-  <img src="https://img.shields.io/badge/Churn%20Predictor-Deep%20Learning%20Model-1e3c72?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
-
-<br/>
-
-<b>ANN-based customer churn prediction system</b>  
-<span style="color:#8b949e;">TensorFlow/Keras • Real-time predictions</span>
-
-<br/><br/>
-
-<a href="https://github.com/Kanalpreet/recommendationSystem">
-  <img src="https://img.shields.io/badge/Book%20Recommendation-System-2a5298?style=for-the-badge&logo=bookstack&logoColor=white"/>
-</a>
-
-<br/>
-
-<b>Collaborative filtering recommendation engine</b>  
-<span style="color:#8b949e;">Cosine similarity • Live deployed system</span>
-
-</p>
+1. **Ground outputs in data:** Flag missing information instead of inventing details.
+2. **Evaluate early:** Treat failure cases as test cases.
+3. **Keep humans involved:** Require approval for consequential or irreversible actions.
+4. **Use deterministic code:** Handle calculations and validation in code wherever possible.
+5. **Make systems traceable:** Maintain logs and document limitations.
 
 ---
 
 ## ⚙️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,flask,docker,git,linux,vscode" />
-</p>
+**AI / LLM / Retrieval**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1D4ED8?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG%20%2F%20CRAG-7C3AED?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+
+**Backend & Data**
+
+![Python](https://skillicons.dev/icons?i=python,fastapi,flask,postgres,docker,aws,git&theme=dark)
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react,vite,bootstrap,html,css&theme=dark)
+
+**Machine Learning**
+
+![ML](https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy&theme=dark)
+
+**Languages:** Python · C++ · SQL · C · JavaScript
 
 ---
 
-## 🌐 Portfolio
+## 📜 Certifications
 
-👉 Explore full portfolio:  
-https://kanalpreet-ai-forge.lovable.app/
-
----
-
-## 💡 Currently Exploring
-
-- LLM architectures  
-- Retrieval-Augmented Generation (RAG)  
-- AI agents & Generative AI  
+![LangChain Academy](https://img.shields.io/badge/LangChain_Academy-Intro_to_LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangChain_Academy-Intro_to_LangGraph-1D4ED8?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-Prompt_Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-AI_Fluency-CC785C?style=for-the-badge)
 
 ---
 
-## 🤝 Connect
+## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kanalpreet&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanalpreet&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used programming languages"/>
+
+</div>
+
+---
+## 🤝 Let's Connect
+
+🎯 **Looking for:** An AI Engineer role where I can own what I build and learn something new every week.
+
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/kanalpreet-kaur-479079327">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:kanalpreetk@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <a href="https://kanalpreet-ai-forge.lovable.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-</p>
 
----
+<br/><br/>
 
-⭐ *Building intelligent systems, not just models.*
+*Building intelligent systems that are evaluated, reliable, and useful.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0F172A&height=120&section=footer" alt="Profile footer"/>
+
+</div>
