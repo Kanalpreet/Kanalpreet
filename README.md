@@ -11,22 +11,6 @@
 
 <br/><br/>
 
-<img src="terminal.svg" width="720" alt="Terminal intro: whoami, focus, projects and engineering principle"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/kanalpreet-kaur-479079327">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://kanalpreet-ai-forge.lovable.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:kanalpreetk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
 ---
 
 ## 👋 About Me
