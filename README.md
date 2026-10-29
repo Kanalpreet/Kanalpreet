@@ -131,22 +131,6 @@ A crop recommendation project using machine learning and generative AI to suppor
 
 ---
 
-## 🧭 How I Approach AI Systems
-
-```mermaid
-flowchart TD
-    A[User Request] --> B[LangGraph Workflow]
-    B --> C{Tool or Retrieval Needed?}
-    C -->|Yes| D[Tools and RAG]
-    C -->|No| E[LLM Reasoning]
-    D --> F{Human Approval Required?}
-    E --> F
-    F -->|Yes| G[Human Review]
-    F -->|No| H[Return Result]
-    G --> H
-    H --> I[Evaluation and Logs]
-```
-
 **Engineering principles**
 
 1. **Ground outputs in data:** Flag missing information instead of inventing details.
