@@ -2,17 +2,19 @@
 <!-- =========================================================
      KANALPREET KAUR | GITHUB PROFILE README
      Repository: https://github.com/Kanalpreet/Kanalpreet
+     Requires the three SVG files in an /assets folder:
+       assets/header.svg · assets/terminal.svg · assets/footer.svg
      ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:7C3AED&height=220&section=header&text=Kanalpreet%20Kaur&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%7C%20RAG%20%26%20Agentic%20Systems%20%7C%20LangGraph&descSize=18&descAlignY=57&descColor=E2E8F0" alt="Kanalpreet Kaur - AI Engineer"/>
+<img src="assets/header.svg" width="100%" alt="Kanalpreet Kaur - AI Engineer focused on RAG and agentic systems"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Backend+AI+Engineering+Intern+%40+FlyRank+AI;RAG+%7C+LangGraph+%7C+Vector+Databases+%7C+Evals;Agents+with+guardrails%2C+evals+and+human+approval;Building+practical+AI+systems" alt="Animated introduction"/>
-</a>
+<br/><br/>
 
-<br/>
+<img src="assets/terminal.svg" width="720" alt="Terminal intro: whoami, focus, projects and engineering principle"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/kanalpreet-kaur-479079327">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -202,10 +204,10 @@ flowchart TD
 </div>
 
 ---
+
 ## 🤝 Let's Connect
 
 🎯 **Looking for:** An AI Engineer role where I can own what I build and learn something new every week.
-
 
 <div align="center">
 
@@ -221,8 +223,6 @@ flowchart TD
 
 <br/><br/>
 
-*Building intelligent systems that are evaluated, reliable, and useful.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0F172A&height=120&section=footer" alt="Profile footer"/>
+<img src="assets/footer.svg" width="100%" alt="Building intelligent systems that are evaluated, reliable, and useful."/>
 
 </div>
